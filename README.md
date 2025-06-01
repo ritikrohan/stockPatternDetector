@@ -1,4 +1,4 @@
-# stockPatternDetector# Gemini Stock Pattern Detector & Short-Term Analysis
+# stockPatternDetector# Stock Pattern Detector & Short-Term Analysis
 
 This Streamlit app allows you to analyze stocks for bullish candlestick patterns, key technical indicators, and short-term trading insights using data from Yahoo Finance. It provides interactive charts with overlays for EMAs, MACD, RSI, volume, and detected candlestick patterns, along with rules-based analysis for volume, moving averages, and market stage.
 
